@@ -4,6 +4,6 @@ class Card_swipe extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('welcome_message');
+		$this->load->view('card_swipe');
 	}
 }
