@@ -1,5 +1,1 @@
 php_extensions: [mcrypt, mysqli, mysql, mbstring] 
-
-url_rewrites:
-    ### URL Correction
-    - "^/(phpmyadmin/.*/?) /$1"
